@@ -1,1 +1,1 @@
-# html
+# diki.daniyar.github.io
